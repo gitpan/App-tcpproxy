@@ -3,8 +3,14 @@ Changes from 1741-02-20 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.002 at 2014-12-05 01:04:43 +0000
+version 0.003 at 2014-12-05 01:10:08 +0000
 ------------------------------------------
+
+  Change: 88915e44ef15a0d21d1402ee9b7e55c6285d4775
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-05 02:09:58 +0000
+
+    Adapted also the sample output from the doc 
 
   Change: 23d4904c37d7beff4d38f4ff5841b11bee356c1f
   Author: Torsten Raudssus <torsten@raudss.us>
