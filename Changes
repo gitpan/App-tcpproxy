@@ -3,8 +3,15 @@ Changes from 1741-02-20 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.003 at 2014-12-05 01:10:08 +0000
+version 0.004 at 2014-12-05 01:18:48 +0000
 ------------------------------------------
+
+  Change: 4b4e6ad115d2e88a6f8357471348b7b4bc96a4e0
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-05 02:18:30 +0000
+
+    Fixed a stupid typo in the ascii table mapping of the control
+    sequences 
 
   Change: 88915e44ef15a0d21d1402ee9b7e55c6285d4775
   Author: Torsten Raudssus <torsten@raudss.us>

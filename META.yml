@@ -17,7 +17,7 @@ requires:
 resources:
   homepage: https://github.com/Getty/p5-app-tcpproxy
   repository: https://github.com/Getty/p5-app-tcpproxy.git
-version: '0.003'
+version: '0.004'
 x_Dist_Zilla:
   perl:
     version: '5.018001'
@@ -266,7 +266,7 @@ x_Dist_Zilla:
         Dist::Zilla::Plugin::Git::Tag:
           branch: ~
           signed: 0
-          tag: '0.003'
+          tag: '0.004'
           tag_format: '%v'
           tag_message: v%v
           time_zone: local
