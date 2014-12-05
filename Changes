@@ -3,8 +3,14 @@ Changes from 1741-02-20 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.001 at 2014-12-05 00:58:21 +0000
+version 0.002 at 2014-12-05 01:04:43 +0000
 ------------------------------------------
+
+  Change: 23d4904c37d7beff4d38f4ff5841b11bee356c1f
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-05 02:04:21 +0000
+
+    Cosmetical change on output to be also readable if blackwhite 
 
   Change: d444a9c383d2c2d3904687049102a68db53b1d76
   Author: Torsten Raudssus <torsten@raudss.us>

@@ -3,7 +3,7 @@ BEGIN {
   $App::tcpproxy::AUTHORITY = 'cpan:GETTY';
 }
 # ABSTRACT: Simple TCP proxy for debugging connections
-$App::tcpproxy::VERSION = '0.001';
+$App::tcpproxy::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -21,7 +21,7 @@ App::tcpproxy - Simple TCP proxy for debugging connections
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 

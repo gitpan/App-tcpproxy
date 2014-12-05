@@ -72,7 +72,7 @@ sub data {
     } elsif ($char =~ /[ -~]/) {
       print colored($char,'bright_white');
     } else {
-      print colored(unpack('H*',$char),'bright_cyan');        
+      print colored('<'.unpack('H*',$char).'>','bright_cyan');        
     }
   }
 }
@@ -188,7 +188,7 @@ tcpproxy.pl - Simple TCP proxy for debugging connections
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
