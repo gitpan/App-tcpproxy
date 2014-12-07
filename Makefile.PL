@@ -22,9 +22,10 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "App::tcpproxy",
   "PREREQ_PM" => {
-    "AnyEvent" => 0
+    "AnyEvent" => 0,
+    "Data::Coloured" => 0
   },
-  "VERSION" => "0.004",
+  "VERSION" => "0.005",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -33,6 +34,7 @@ my %WriteMakefileArgs = (
 
 my %FallbackPrereqs = (
   "AnyEvent" => 0,
+  "Data::Coloured" => 0,
   "ExtUtils::MakeMaker" => 0
 );
 

@@ -1,10 +1,28 @@
 ==================================================
-Changes from 1741-02-20 00:00:00 +0000 to present.
+Changes from 1741-02-22 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.004 at 2014-12-05 01:18:48 +0000
+version 0.005 at 2014-12-07 18:34:59 +0000
 ------------------------------------------
+
+  Change: 10018cc2b7f2fc2f7709f2c795b8162cf8492c51
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-07 19:34:55 +0000
+
+    Fixed rights 
+
+  Change: 2514cecc6a442f44bf93616be4dcdf25c0b248c1
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-07 19:34:41 +0000
+
+    Switching to Data::Colour 
+
+  Change: 1967473c779ef32bf365fb71b2ddf6496f870086
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2014-12-05 02:21:26 +0000
+
+    Meh, example a bit longer as needed for understandment 
 
   Change: 4b4e6ad115d2e88a6f8357471348b7b4bc96a4e0
   Author: Torsten Raudssus <torsten@raudss.us>

@@ -26,7 +26,8 @@
       },
       "runtime" : {
          "requires" : {
-            "AnyEvent" : "0"
+            "AnyEvent" : "0",
+            "Data::Coloured" : "0"
          }
       }
    },
@@ -39,7 +40,7 @@
          "web" : "https://github.com/Getty/p5-app-tcpproxy"
       }
    },
-   "version" : "0.004",
+   "version" : "0.005",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.018001"
@@ -359,7 +360,7 @@
                "Dist::Zilla::Plugin::Git::Tag" : {
                   "branch" : null,
                   "signed" : 0,
-                  "tag" : "0.004",
+                  "tag" : "0.005",
                   "tag_format" : "%v",
                   "tag_message" : "v%v",
                   "time_zone" : "local"

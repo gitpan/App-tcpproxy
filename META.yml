@@ -14,10 +14,11 @@ meta-spec:
 name: App-tcpproxy
 requires:
   AnyEvent: '0'
+  Data::Coloured: '0'
 resources:
   homepage: https://github.com/Getty/p5-app-tcpproxy
   repository: https://github.com/Getty/p5-app-tcpproxy.git
-version: '0.004'
+version: '0.005'
 x_Dist_Zilla:
   perl:
     version: '5.018001'
@@ -266,7 +267,7 @@ x_Dist_Zilla:
         Dist::Zilla::Plugin::Git::Tag:
           branch: ~
           signed: 0
-          tag: '0.004'
+          tag: '0.005'
           tag_format: '%v'
           tag_message: v%v
           time_zone: local
